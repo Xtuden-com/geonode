@@ -38,7 +38,7 @@
     "leaflet-navbar": "^1.0.0",
     "leaflet-transparency": "^0.0.5",
     "leaflet.control.opacity": "^1.3.0",
-    "leaflet.locatecontrol": "^0.67.0",
+    "leaflet.locatecontrol": "^0.72.0",
     "leaflet.pancontrol": "^1.0.0",
     "liftoff": "^3.1.0",
     "list": "^2.0.19",
