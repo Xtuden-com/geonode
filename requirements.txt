@@ -153,3 +153,4 @@ pip==20.2.4
 Twisted==20.3.0
 factory-boy==3.1.0
 flaky==3.7.0
+aiohttp>=3.9.4 # not directly required, pinned by Snyk to avoid a vulnerability
