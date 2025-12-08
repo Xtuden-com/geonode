@@ -3,7 +3,7 @@ Pillow==8.0.1
 lxml==4.6.1
 defusedxml==0.6.0
 psycopg2==2.8.6
-Django==2.2.16
+Django==4.2.27
 
 # Other
 amqp==5.0.2
@@ -12,7 +12,7 @@ beautifulsoup4==4.9.3
 httplib2<0.18.2
 hyperlink==20.0.1
 idna>=2.5,<2.11
-urllib3==1.25.11
+urllib3==2.6.0
 Paver==1.3.4
 python-slugify==4.0.1
 decorator==4.4.2
@@ -153,3 +153,4 @@ pip==20.2.4
 Twisted==20.3.0
 factory-boy==3.1.0
 flaky==3.7.0
+sqlparse>=0.5.4 # not directly required, pinned by Snyk to avoid a vulnerability
